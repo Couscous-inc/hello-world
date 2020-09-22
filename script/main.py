@@ -1,2 +1,2 @@
 # LE VRAI
-print("Le vrai")
+liste = [1,2,3,4,555555]
